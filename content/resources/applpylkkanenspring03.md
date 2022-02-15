@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: applpylkkanenspring03.pdf
-type: OCWFile
 uid: 78db42ba-0cc4-f2e1-cec7-49dd9b2f933b
 ---

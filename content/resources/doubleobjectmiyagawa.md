@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: doubleobjectmiyagawa.pdf
-type: OCWFile
 uid: b25e5e7a-2782-054c-dc74-74a4815891eb
 ---

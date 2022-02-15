@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: kubo1992presentationrevi.pdf
-type: OCWFile
 uid: 9cb05c43-a4d3-e742-92e6-a5082e58e890
 ---

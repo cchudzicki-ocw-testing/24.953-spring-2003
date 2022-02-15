@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: MiyagawaTsujioka_JEAL_FIN.pdf
-type: OCWFile
 uid: 2f0d14ff-0949-87bb-a55c-5e597b61e164
 ---

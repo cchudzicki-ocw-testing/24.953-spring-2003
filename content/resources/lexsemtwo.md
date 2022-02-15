@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lexsemtwo.pdf
-type: OCWFile
 uid: 386ba1a8-bd9e-72c8-869d-b027010feccc
 ---

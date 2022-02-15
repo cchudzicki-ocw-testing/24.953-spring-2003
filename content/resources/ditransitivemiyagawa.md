@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: ditransitivemiyagawa.pdf
-type: OCWFile
 uid: 6801d682-f0d3-5076-b5fe-3e52b0f502be
 ---
