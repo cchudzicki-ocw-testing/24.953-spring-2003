@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 16fdd19d-03b7-cb0b-2736-7e888e84d116
 resourcetype: Document
 title: doubleobjectmiyagawa.pdf
 uid: b25e5e7a-2782-054c-dc74-74a4815891eb
